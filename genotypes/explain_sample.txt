@@ -1,0 +1,20 @@
+Samples are named as followed:
+
+eg. 2_GRh5 (2 G rh 5)
+
+1: 1/2/3/4
+
+Experiment id, 1 & 2 done with CAS11 soil, 3 & 4 done with CAS12 soil
+
+2: G/N/R/S/C
+
+Genotype, G=Gifu, N=nfr5, R=ram1, S= symrk, C=ccamk
+
+3: R/Rh
+
+Compartment, R=Root or Rh=Rhizosphere. Soil samplesare named as S (e.g. 3_S2 )
+
+4: 1:8 (or _1 : _8 in case of fungal data)
+
+Replicate id
+

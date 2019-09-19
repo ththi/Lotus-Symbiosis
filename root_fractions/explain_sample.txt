@@ -1,0 +1,20 @@
+Samples are named as followed:
+
+eg. TNR1 (T N R 1)
+
+1: 4/T/W
+
+Root fraction, T= Root Tips, W= Whole Root, 4= Upper Root
+
+2: N/G
+
+Genotype, Only G=Gifu as used for the publication
+
+3: R/Rh
+
+Compartment, R=Root or Rh=Rhizosphere. Soil samplesare named as Soil
+
+4: 1:6
+
+Replicate id
+
